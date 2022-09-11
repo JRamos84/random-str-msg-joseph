@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-joseph",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRamos84/random-str-msg-joseph.git"
+  },
+  "keywords": [],
+  "author": "José Florentino Ramos <joseph0001@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JRamos84/random-str-msg-joseph/issues"
+  },
+  "homepage": "https://github.com/JRamos84/random-str-msg-joseph#readme",
+  "bin": {
+    "random-str-msg-joseph": "./bin/global.js"
+  },
+    "preferGlobal": true
+}
